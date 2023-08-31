@@ -1,0 +1,44 @@
+leftnav:
+- identifier: 3c325069-5a18-60f4-2dca-6e84fb74034a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b93901ce-b269-1028-d932-4ac654b23cf0
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 09f5e89e-d232-9a2c-359d-4f4727253abe
+  name: Flipping the Classroom
+  pageRef: /pages/instructor-insights/flipping-the-classroom
+  parent: b93901ce-b269-1028-d932-4ac654b23cf0
+  weight: 30
+- identifier: ef058c98-4405-d52c-2431-363be79e5018
+  name: Clickers or Flashcards?
+  pageRef: /pages/instructor-insights/clickers-or-flashcards
+  parent: b93901ce-b269-1028-d932-4ac654b23cf0
+  weight: 40
+- identifier: 15cd99a0-9dbc-91ef-5278-2c8a1f0e750c
+  name: Perceived Barriers to Active Learning
+  pageRef: /pages/instructor-insights/perceived-barriers-to-active-learning
+  parent: b93901ce-b269-1028-d932-4ac654b23cf0
+  weight: 50
+- identifier: 84eb1e49-cca0-6c01-6153-4f50406442d1
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 13a75973-09d7-d8c2-339a-f03a176a0d72
+  name: 'Pre-class Reading Questions '
+  pageRef: /pages/pre-class-reading-questions
+  weight: 70
+- identifier: 2c19124a-07b8-1891-918c-f65ff26fbc3c
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 80
+- identifier: d7114091-3615-7908-241b-6e081921581f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: a54254f5-d11d-54a1-030b-eb1b17c6c447
+  name: Exams
+  pageRef: /pages/exams
+  weight: 100
