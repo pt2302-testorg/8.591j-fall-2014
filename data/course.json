@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate",
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Synthetic Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ]
+  ],
+  "legacy_uid": "3f25a0d8-c2fb-f5a7-292b-dc8ee045aae0",
+  "instructors": {
+    "content": [
+      "b4b63c36-292a-b08f-bd21-0252707b9c2e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5a4e655e-52f4-5f37-185a-d3d45fa4e667",
+    "website": "8-591j-systems-biology-fall-2014"
+  },
+  "course_title": "Systems Biology",
+  "course_description": "This course provides an introduction to cellular and population-level systems biology with an emphasis on synthetic biology, modeling of genetic networks, cell-cell interactions, and evolutionary dynamics. Cellular systems include genetic switches and oscillators, network motifs, genetic network evolution, and cellular decision-making. Population-level systems include models of pattern formation, cell-cell communication, and evolutionary systems biology.\n",
+  "department_numbers": [
+    "8",
+    "7"
+  ],
+  "extra_course_numbers": "7.81J,7.32",
+  "primary_course_number": "8.591J",
+  "course_image_thumbnail": {
+    "content": "56a6730f-20aa-1be1-88fa-c289b0a92dbe",
+    "website": "8-591j-systems-biology-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Videos",
+    "Instructor Insights"
+  ],
+  "site_uid": "3317c325-e112-45ca-b7e8-2f42bc5c74a2",
+  "site_short_id": "8.591j-fall-2014",
+  "title": "Course Metadata"
+}
